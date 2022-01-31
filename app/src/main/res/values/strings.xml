@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">eBazarek_v2</string>
+
+    <string name="content_description">image</string>
+    <string name="login">LOGIN</string>
+    <string name="noLogin">Continue without logging</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="lbl_forgot_password">I forgot my password.</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="no_account">I don\'t have an account.</string>
+    <string name="register"><u>Register</u></string>
+
+    <string name="welcome"><u>Welcome!</u></string>
+    <string name="txt_powered_by">Powered by</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="e_mail">E-mail</string>
+    <string name="username">Username</string>
+    <string name="confirm_the_password">Confirm the Password</string>
+    <string name="todo">TODO</string>
+    <string name="username_or_e_mail">Username or E-mail</string>
+    <string name="password">Password</string>
+    <string name="continue_without_account">CONTINUE WITHOUT ACCOUNT</string>
+
+
+</resources>
